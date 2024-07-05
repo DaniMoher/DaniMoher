@@ -18,4 +18,5 @@ I've worked in leadership, Customer Success, and Product Operations.
 <p align="center">
 MongoDB, Express.js, React, Node.js, Bootstrap, APIs, NoSQL, SQlite, Salesforce, Jira, Sisense
 </p>
-<h4 align="center">I am <i>most</i> familiar with the MERN* stack</h4>
+<h4 align="center">What's next?</h4>
+<p align="center">At this time, I'm actively seeking to learn: Python, Java, C++, and C#.</p>
