@@ -1,7 +1,7 @@
 <h1 align="center"> 
 Thank you for visiting!
   <br>
-My name is Dani, and I'm an aspiring SWE apprentice.
+My name is Dani, and I'm an aspiring tech apprentice.
 </h1>
 <h3 align="center">
 I've worked in leadership, Customer Success, and Product Operations.
